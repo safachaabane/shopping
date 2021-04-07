@@ -5,11 +5,11 @@ tr,td,th{
     width: 10%;
 }
 h1{
-    color: fuchsia;
+    color: rgb(177, 21, 60);
     text-align: center;
 }
 h3{
-    color: crimson;
+    color: rgb(223, 127, 89);
     text-align: center;
 }
 table{
