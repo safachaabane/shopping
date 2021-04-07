@@ -1,0 +1,29 @@
+tr,td,th{
+    border: solid 2px black;
+    text-align: center;
+    border-collapse: collapse;
+    width: 10%;
+}
+h1{
+    color: fuchsia;
+    text-align: center;
+}
+h3{
+    color: crimson;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 90%;
+    margin: auto;
+}
+body{
+    background-color: #ddd;
+}
+input{
+    width:10px;
+}
+.like{
+    text-decoration: none;
+    color:black;
+}
